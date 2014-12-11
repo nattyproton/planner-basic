@@ -1,0 +1,5 @@
+Inkscape - Planner App
+Photoshop - Whole Website
+HTML/CSS - Layout
+	Make the color scheme, the same as the udyr from inspiration?
+jQuery - Planner Interactiveness
