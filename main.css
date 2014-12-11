@@ -1,5 +1,9 @@
+.nav {
+	background-color:#2e91d4;
+}
+
 .nav a {
-	color: #5a5a5a;
+	color: #FFFFFF;
 	font-size: 11px;
 	font-weight: bold;
 	padding: 14px 10px;
@@ -7,19 +11,40 @@
 }
 
 .nav li {
+	color: #FFFFFF;
 	display: inline;
 }
 
+.container h1 {
+	color: #2e91d4;
+}
+
 .jumbotron {
-  background-image:url('http://cache3.asset-cache.net/xc/453309437.jpg?v=2&c=IWSAsset&k=2&d=fePFJ4FtqOv4dCbA732Uy7KpFjDozOQFpEw_XH3o79Q1');
-  height: 500px;
-  background-repeat: no-repeat;
-  background-size: cover;
+	background-image:url('http://cache3.asset-cache.net/xc/453309437.jpg?v=2&c=IWSAsset&k=2&d=fePFJ4FtqOv4dCbA732Uy7KpFjDozOQFpEw_XH3o79Q1');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .jumbotron .container {
   position: relative;
   top:100px;
+}
+
+.jumbotron .container .planner{
+	/*position the box closer in*/
+}
+
+.container .directions h3 {
+	color: #2e91d4;
+}
+
+.container .ideas h3 {
+	color: #2e91d4;
+}
+
+.footer {
+	background-color:#2e91d4;
 }
 
 .footer a {
@@ -54,4 +79,8 @@ form {
 .list {
 	font-family:garamond;
 	color:#cc0000;
+}
+
+body {
+	background-color:#2e91d4;
 }
